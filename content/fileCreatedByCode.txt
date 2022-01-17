@@ -1,0 +1,5 @@
+here is the content of the first file :  here is the file in the content folder 
+
+ and here is the content of the second file : test text file right over here here is the content of the first file :  here is the file in the content folder 
+
+ and here is the content of the second file : test text file right over here 
